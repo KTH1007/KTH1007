@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=250&section=header&text=WELCOME&fontSize=80">
 </div>
 
-<div align=center><h1>Hello, I'm TaeHeon:wave:</h1></div>
+<div align=center><h1>Hello, I'm TaeHeon👋</h1></div>
 
 <div align="center">
  📚Tech Stack📚<br><br>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
  
  <br><br>
- :art: SNS & Portfolio :art:<br><br>
+ 🎨 SNS & Portfolio 🎨<br><br>
 <a href="https://velog.io/@kth1007"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@kth1007"/></a>
  <a href="mailto:rlaxogjs2684@gmail.com"><img src="https://img.shields.io/badge/rlaxogjs2684@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:rlaxogjs2684@gmail.com"/></a>
 </div>
