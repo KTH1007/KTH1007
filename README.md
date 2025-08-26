@@ -46,3 +46,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=KTH1007&show_icons=true">  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KTH1007&layout=compact">
 </div>
+
+## 🏆 Achievements
+| Achievement | Result |
+|---|---|
+| **구름톤 넥서스 가온지부** | 🥇 **1st Place** (BETALAB) |
+| **멋쟁이사자처럼 중앙해커톤** | **Top 21%** (51/247 teams) 커밋하면칼퇴 |
